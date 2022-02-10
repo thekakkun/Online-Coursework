@@ -5,4 +5,8 @@ My projects completed as part of [Udacity's Full Stack Web Developer Nanodegree 
 ## Projects
 
 ### [1. Fyyur](https://github.com/thekakkun/fyyur)
-An artist/venue booking application, using SQLAlchemy and PostgreSQL.
+Create the backend for an artist/venue booking application, using SQLAlchemy and PostgreSQL.
+
+
+### [2. Trivia App](https://github.com/thekakkun/app)
+Learn to design,implement, and test an API by creating a trivia app.
