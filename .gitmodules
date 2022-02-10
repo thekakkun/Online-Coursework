@@ -1,3 +1,6 @@
 [submodule "fyyur"]
 	path = fyyur
 	url = https://github.com/thekakkun/fyyur.git
+[submodule "trivia_app"]
+	path = trivia_app
+	url = https://github.com/thekakkun/trivia_app.git
