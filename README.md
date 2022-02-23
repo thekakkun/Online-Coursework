@@ -9,4 +9,4 @@ Create the backend for an artist/venue booking application, using SQLAlchemy and
 
 
 ### [2. Trivia App](https://github.com/thekakkun/app)
-Learn to design,implement, and test an API by creating a trivia app.
+Learn to design, implement, and test an API by creating a trivia app.
