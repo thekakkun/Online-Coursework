@@ -12,5 +12,5 @@ Create the backend for an artist/venue booking application, using SQLAlchemy and
 Learn to design, implement, and test an API by creating a trivia app.
 
 
-### [3. Identity Access Management: Coffee Shop](https://github.com/thekakkun/Coffee-Shop)
+### [3. Identity Access Management: Coffee Shop](https://github.com/thekakkun/coffee_shop)
 Implement authentication and authorization using role-based control design patterns. Apply software system risk and compliance principles.
