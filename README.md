@@ -8,7 +8,7 @@ My projects completed as part of [Udacity's Full Stack Web Developer Nanodegree 
 Create the backend for an artist/venue booking application, using SQLAlchemy and PostgreSQL.
 
 
-### [2. SQL and Data Modeling for the Web: Trivia App](https://github.com/thekakkun/trivia_app)
+### [2. API Development and Documentation: Trivia App](https://github.com/thekakkun/trivia_app)
 Learn to design, implement, and test an API by creating a trivia app.
 
 
