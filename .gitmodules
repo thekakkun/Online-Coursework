@@ -4,3 +4,6 @@
 [submodule "trivia_app"]
 	path = trivia_app
 	url = https://github.com/thekakkun/trivia_app.git
+[submodule "coffee_shop"]
+	path = coffee_shop
+	url = https://github.com/thekakkun/Coffee-Shop.git
