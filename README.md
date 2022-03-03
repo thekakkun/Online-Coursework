@@ -14,3 +14,9 @@ Learn to design, implement, and test an API by creating a trivia app.
 
 ### [3. Identity Access Management: Coffee Shop](https://github.com/thekakkun/coffee_shop)
 Implement authentication and authorization using role-based control design patterns. Apply software system risk and compliance principles.
+
+### 4. Server Deployment and Containerization
+TBD
+
+### 4. Capstone Project
+TBD
