@@ -18,5 +18,5 @@ Implement authentication and authorization using role-based control design patte
 ### 4. Server Deployment and Containerization
 TBD
 
-### 4. Capstone Project
+### 5. Capstone Project
 TBD
