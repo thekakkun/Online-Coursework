@@ -1,9 +1,12 @@
 [submodule "fyyur"]
 	path = fyyur
 	url = https://github.com/thekakkun/fyyur.git
+	branch = main
 [submodule "trivia_app"]
 	path = trivia_app
 	url = https://github.com/thekakkun/trivia_app.git
+	branch = main
 [submodule "coffee_shop"]
 	path = coffee_shop
 	url = https://github.com/thekakkun/Coffee-Shop.git
+	branch = main
