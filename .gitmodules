@@ -10,3 +10,7 @@
 	path = coffee_shop
 	url = https://github.com/thekakkun/Coffee-Shop.git
 	branch = main
+[submodule "cicd"]
+	path = cicd
+	url = https://github.com/thekakkun/cicd.git
+	branch = main
