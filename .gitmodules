@@ -14,7 +14,3 @@
 	path = cicd
 	url = https://github.com/thekakkun/cicd.git
 	branch = main
-[submodule "capstone"]
-	path = resto_rando
-	url = https://github.com/thekakkun/resto_rando.git
-	branch = main
