@@ -14,3 +14,7 @@
 	path = cicd
 	url = https://github.com/thekakkun/cicd.git
 	branch = main
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/thekakkun/capstone.git
+	branch = main
