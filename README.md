@@ -1,8 +1,10 @@
-# Udacity Full Stack Developer Projects
+# Online courses
 
-My projects completed as part of [Udacity's Full Stack Web Developer Nanodegree Program](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044).
+Excercises and projects completed as a part of various online courses.
 
-## Projects
+## [Full Stack open 2022](https://fullstackopen.com/en/) (May 2022 - present)
+
+## [Udacity: Full Stack Web Developer Nanodegree Program](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) (Jan. 2022 - Apr. 2022)
 
 ### [1. SQL and Data Modeling for the Web: Fyyur](https://github.com/thekakkun/fyyur)
 
