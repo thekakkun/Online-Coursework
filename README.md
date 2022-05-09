@@ -1,8 +1,6 @@
 # Online courses
 
-Excercises and projects completed as a part of various online courses.
-
-## [Full Stack open 2022](https://fullstackopen.com/en/) (May 2022 - present)
+Projects completed as part of various online courses.
 
 ## [Udacity: Full Stack Web Developer Nanodegree Program](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) (Jan. 2022 - Apr. 2022)
 
